@@ -1,4 +1,4 @@
-# Team 32 - Job Recommendation System
+# Team 32 - Job Recommendation System 
 
 This job recommendation system is designed to help job seekers find suitable job opportunities based on their skills. The system uses a machine learning algorithm to match job seekers with job postings.
 
